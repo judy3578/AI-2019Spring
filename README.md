@@ -11,7 +11,7 @@
 
 ------------------------------------------
 ** Activation function
-![relu](https://user-images.githubusercontent.com/42993492/59111302-b9a39900-897b-11e9-9413-38f5b74a4bb8.JPG)
+![relu](https://user-images.githubusercontent.com/42993492/59111302-b9a39900-897b-11e9-9413-38f5b74a4bb8.JPG){: width="100" height="100"}
 ![sigmoid](https://user-images.githubusercontent.com/42993492/59111303-ba3c2f80-897b-11e9-9039-3ae903388202.JPG)
 ![step](https://user-images.githubusercontent.com/42993492/59111304-ba3c2f80-897b-11e9-9a9f-31fd4a21dee0.JPG)
 
