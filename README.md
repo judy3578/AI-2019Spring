@@ -18,4 +18,3 @@
 
 ** CNN_model
 ![modelCNN](https://user-images.githubusercontent.com/42993492/59111300-b9a39900-897b-11e9-91c9-c0abbe3d8df5.jpg)
-
