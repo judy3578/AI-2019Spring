@@ -1,2 +1,3 @@
 # AI-2019Spring
-hello!
+** 배우는 내용들 **
+* python
