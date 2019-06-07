@@ -9,4 +9,5 @@
 * TensorFlow MNIST_keras
 * TensorFlow MNIST_CNN_keras
 
-![relu](./git_picture/relu.jpg)
+------------------------------------------
+
