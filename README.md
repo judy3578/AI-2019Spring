@@ -16,9 +16,7 @@
 
 * Activation function
 
-<img width="350" alt="relu" src="https://user-images.githubusercontent.com/42993492/59143168-dd5df200-8a02-11e9-83b9-8e41c5fb53ee.PNG">
-<img width="345" alt="sigmoid" src="https://user-images.githubusercontent.com/42993492/59143169-dd5df200-8a02-11e9-83f3-9afcd808f35a.PNG">
-<img width="342" alt="step" src="https://user-images.githubusercontent.com/42993492/59143170-ddf68880-8a02-11e9-87bc-8be79188ecb4.PNG">
+<img width="280" alt="relu" src="https://user-images.githubusercontent.com/42993492/59143168-dd5df200-8a02-11e9-83b9-8e41c5fb53ee.PNG"> <img width="280" alt="sigmoid" src="https://user-images.githubusercontent.com/42993492/59143169-dd5df200-8a02-11e9-83f3-9afcd808f35a.PNG"> <img width="280" alt="step" src="https://user-images.githubusercontent.com/42993492/59143170-ddf68880-8a02-11e9-87bc-8be79188ecb4.PNG">
 
 * Linear regression
 
