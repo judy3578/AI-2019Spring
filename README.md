@@ -11,7 +11,7 @@
 
 ------------------------------------------
 ** Linear regression
-![linear_regression](E:/Hyeju/과제/3학년/4차/git_picture/linear_regression.jpg)
+![linear_regression](E:/Hyeju/과제/3학년/4차/git_picture/linear_regression.JPG)
 
 ** Perceptron
 ![perceptron](https://user-images.githubusercontent.com/42993492/59111301-b9a39900-897b-11e9-8509-ef132c145fb2.JPG)
